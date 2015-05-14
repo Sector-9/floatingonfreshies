@@ -1,1 +1,11 @@
-asdf and a happy new year
+<!DOCTYPE html>
+<html>
+  <body>
+  
+	<ul>
+	  <li>Home</li>
+	  <li>Browse</li>
+	</ul>
+	
+  </body>
+</html>
